@@ -10,3 +10,5 @@ added this line local pc
 This line added on Thursay by Sudeep witin Github
 Conflicting changes being done on Github
 problematic changes done by Sudeep locally
+
+update for floating tags
